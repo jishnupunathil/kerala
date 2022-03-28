@@ -20,7 +20,9 @@
     height: 90%;
 }
  .row{
+    
     background: rgba(247, 225, 193, 0.918);
+
 } 
 .abt{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -37,5 +39,9 @@
     float:inline-start;
 }
 .hhh{
-    height: 500px;
+    height: 580px;
+}
+.hei{
+    background: violet;
+    height: 280px;
 }
